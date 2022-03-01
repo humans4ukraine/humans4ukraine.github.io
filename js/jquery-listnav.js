@@ -192,6 +192,7 @@
 				 }
 				 // Find the first letter in the LI, including prefixes
 				 firstChar = str.charAt(0);
+				 
  
 				 // Doesn't send true to function, which will ++ the All count on prefixed items
 				 addLetterClass(firstChar, $this);

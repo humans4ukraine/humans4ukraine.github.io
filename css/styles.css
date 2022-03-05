@@ -2,9 +2,14 @@
 
 	padding: 1px;
 	margin: 10px;
+	margin-top: 0px;
 	/* border: 3px solid green; */
  }
 
+
+ .hr{
+	 margin: 5px;
+ }
  .vertical-center {
 	margin: 0;
 	position: absolute;
@@ -53,3 +58,18 @@
 	border-right: 1px solid grey;
  }
 
+
+ .tt{
+	height: 10px;
+ }
+.bl {
+	background-color: #015eb8;
+	height: 10px;
+}
+
+.ye {
+	height: 10px;
+	background-color: #ffd100;
+
+}
+ 
